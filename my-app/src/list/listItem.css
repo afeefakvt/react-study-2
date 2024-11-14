@@ -1,0 +1,10 @@
+.list-item{
+    background-color: aquamarine;
+
+}
+.list-item h4{
+    background-color: brown;
+}
+.list-item .list-desc{
+    background-color: blue;
+}
